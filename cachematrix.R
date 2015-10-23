@@ -11,7 +11,7 @@
 
 
 # 1) makeCacheMatrix 
-# create a list containing 4 subfunctions
+# create a list containing four subfunctions
 makeCacheMatrix<- function(x = matrix()) {
   
   inverse_of_matrix <- NULL
